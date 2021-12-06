@@ -1,4 +1,12 @@
 ### Hi there 👋
+<hr>
+I'm a Cloud/DevOps Engineer, Technical Writer and Backend Web Developer. I'm a quality-driven, creative, and zealous learner who is passionate about Cloud engineering, DevOps culture, Infrastructure Automation, Open-source, Technical writing, and Sharing knowledge.
+
+- 🌱 I’m currently learning: Kubernetes
+- 👯 I’m looking to collaborate on: Cloud Native, DevOps, Backend systems, Documentation, and Technical writing .
+- 🤔 I’m looking for help with: Open-source Communities, FOSS
+- 😊 Pronouns: he/him
+- ⚡ Fun fact: I love bananas
 
 <p align="center">
   <a href="https://twitter.com/Wach_E"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
@@ -16,18 +24,4 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning Kubernetes
-- 👯 I’m looking to collaborate on cloud native, devops and backend related projects
-<!--
-**Wach-E/Wach-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love bananas
--->
