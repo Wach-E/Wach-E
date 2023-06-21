@@ -47,9 +47,6 @@ I'm a Cloud/DevOps Engineer, Technical Writer and Backend Web Developer. I'm a q
   <a href="https://github.com/Wach-E/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wach-E&langs_count=10&layout=compact&theme=midnight-purple&repo=github-readme-stats"  height=220  />
   </a>
-  <a href="https://github.com/Wach-E/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wach-E&show_icons=true&theme=midnight-purple" height=220 />
-  </a>
 </p>
 
 
