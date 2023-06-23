@@ -1,12 +1,11 @@
 ### ☁️ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <hr>
-I'm a Cloud/DevOps Engineer, Technical Writer and Backend Web Developer. I'm a quality-driven, creative, and zealous learner who is passionate about Cloud engineering, DevOps culture, Infrastructure Automation, Open-source, Technical writing, and Sharing knowledge.
-
+I'm a Cloud/DevOps Engineer, Technical Writer, and Backend Web Developer. I'm a quality-driven, creative, and zealous learner who is passionate about Cloud engineering, DevOps culture, Infrastructure Automation, Open-source, Technical writing, and Sharing knowledge.
 - 🌱 I’m currently learning: Kubernetes
-- 👯 I’m looking to collaborate on: Cloud Native, DevOps, Backend systems, Documentation, and Technical writing .
-- 🤔 I’m looking for help with: Open-source Communities, FOSS
+- 👯 I’m looking to collaborate on: Cloud Native, DevOps, Backend systems, Documentation, and Technical writing.
+- 🤔 I’m looking for Open-source Communities, FOSS, and the challenges you or your team might be facing
 - 😊 Pronouns: he/him
-- ⚡ Fun fact: I love bananas
+- ⚡ Fun fact: I love explaining complex problems using environment analogies.
 
 ## 🔧Technologies and Tools
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
@@ -31,7 +30,8 @@ I'm a Cloud/DevOps Engineer, Technical Writer and Backend Web Developer. I'm a q
 ![](https://img.shields.io/badge/Metric_Dashboard-Grafana-informational?style=flat&logo=grafana&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Container_Runtime-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cluster_Provisioning-kops-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Ordchestration_Tool-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Orchestration_Tool-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/GitOps_Tool-ArgoCD-informational?style=flat&logo=argocd&logoColor=white&color=2bbc8a)
 
 ## 🤝 Let's connect
 
@@ -46,6 +46,9 @@ I'm a Cloud/DevOps Engineer, Technical Writer and Backend Web Developer. I'm a q
 <p align="center">
   <a href="https://github.com/Wach-E/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wach-E&langs_count=10&layout=compact&theme=midnight-purple&repo=github-readme-stats"  height=220  />
+  </a>
+  <a href="https://github.com/Wach-E/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wach-E&show_icons=true&theme=midnight-purple" height=220 />
   </a>
 </p>
 
