@@ -1,9 +1,18 @@
 ### ☁️ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <hr>
+
+<!-- Animation Typing -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+Emmanuel+Wachukwu.;"></a>
+</p>
+
+<!-- Animation Typing: END -->
 I'm a Cloud/DevOps Engineer, Technical Writer, and Backend Web Developer. I'm a quality-driven, creative, and zealous learner who is passionate about Cloud engineering, DevOps culture, Infrastructure Automation, Open-source, Technical writing, and Sharing knowledge.
-- 🌱 I’m currently learning: Kubernetes
+
+- 🌱 I’m growing my skills in DevOps Engineering and Opensource.
+- 🔭 DevOps roles and oppurtunities to expand my technical depth.
 - 👯 I’m looking to collaborate on: Cloud Native, DevOps, Backend systems, Documentation, and Technical writing.
-- 🤔 I’m looking for Open-source Communities, FOSS, and the challenges you or your team might be facing
+- 🤔 I’m looking for Open-source Communities, FOSS, and the challenges you or your team might be facing.
 - 😊 Pronouns: he/him
 - ⚡ Fun fact: I love explaining complex problems using environment analogies.
 
